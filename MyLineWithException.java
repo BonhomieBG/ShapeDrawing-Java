@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the MyLine class
+// 09/19/2025 Created the MyLine class
 // 09/22/2025 Invalid coordinate exception handling added
 // 12/09/2025 Added toFXShape method for converting to JavaFX shape
 

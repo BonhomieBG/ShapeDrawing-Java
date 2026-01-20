@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the 1DShape class
+// 09/19/2025 Created the 1DShape class
 // 09/22/2025 Add in exception handling
 // 09/24/2025 Have to reseach for a way to make the constructor throw exception properly.
 

@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 12/9/2025 Tekhour Khov Created the MouseHandler class as a part of GUI
+// 12/9/2025 Created the MouseHandler class as a part of GUI
 // 12/13/2025 Added coordinate preview display functionality
 // 12/14/2025 Added multi-click support for shape drawing
 // 

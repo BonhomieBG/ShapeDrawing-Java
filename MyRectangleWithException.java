@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the MyRectangle class
+// 09/19/2025 Created the MyRectangle class
 // 10/26/2025 Add exception handling to the constructor
 
 public class MyRectangleWithException extends My2DShapeWithException{

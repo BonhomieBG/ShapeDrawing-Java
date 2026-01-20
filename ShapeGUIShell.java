@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 12/7/2025 Tekhour Khov Created the GUIHandler class
+// 12/7/2025 Created the GUIHandler class
 import java.util.ArrayList;
 import java.util.Optional;
 

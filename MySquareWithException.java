@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the MySquare class
+// 09/19/2025 Created the MySquare class
 // 10/26/2025 Add exception handling to the constructor
 // 12/09/2025 Add toFXShape for converting to JavaFX shape
 

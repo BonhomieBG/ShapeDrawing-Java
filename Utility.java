@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 12/9/2025 Tekhour Khov Created the Utility class
+// 12/9/2025 Created the Utility class
 // 
 import javafx.scene.control.ButtonType;
 

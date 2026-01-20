@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the ShapeManager class
+// 09/19/2025 Created the ShapeManager class
 // 09/25/2025 Half way with the class
 // 09/27/2025 Completed the class and verify all methods
 // 10/26/2025 Verified exception handling implementation working correctly

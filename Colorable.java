@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/14/2025 Tekhour Khov Created the Colorable interface
+// 09/14/2025 Created the Colorable interface
 
 public interface Colorable {    
     String howToColor(); // Abstract method returning instructions for coloring the shape

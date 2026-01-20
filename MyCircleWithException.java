@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the MyCircle class
+// 09/19/2025 Created the MyCircle class
 // 10/24/2025 Added exception handling for invalid coordinates and radius
 // Add color to constructor
 // 12/09/2025 Added toFXShape method for JavaFX integration

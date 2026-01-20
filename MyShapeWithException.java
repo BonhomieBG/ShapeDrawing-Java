@@ -6,8 +6,8 @@
 //
 // Revision History
 // Date: By: Action
-// 09/14/2025 Tekhour Khov Created MyShape class
-// 09/19/2025 Tekhour Khov Implemented Colorable interface
+// 09/14/2025 Created MyShape class
+// 09/19/2025 Implemented Colorable interface
 // 12/02/2025 Implement JavaFX Shape conversion method
 
 import java.io.Serializable;

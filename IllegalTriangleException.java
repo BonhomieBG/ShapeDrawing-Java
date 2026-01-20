@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 10/20/2025 Tekhour Khov Created the InvalidTriangleException class
+// 10/20/2025 Created the InvalidTriangleException class
 //
 
 public class IllegalTriangleException extends Exception {

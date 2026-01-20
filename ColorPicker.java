@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 12/13/2025 Tekhour Khov Created the ColorPicker class
+// 12/13/2025 Created the ColorPicker class
 // This class manages gradient settings only (solid color handled by MyShapeWithException)
 
 import javafx.scene.paint.Color;

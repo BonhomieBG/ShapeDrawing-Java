@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 10/20/2025 Tekhour Khov Created the InvalidCoordinateException class
+// 10/20/2025 Created the InvalidCoordinateException class
 //
 public class InvalidCoordinateException extends Exception {
     private double invalidX, invalidY;

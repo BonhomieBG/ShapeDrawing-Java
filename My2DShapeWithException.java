@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the 2DShape class
+// 09/19/2025 Created the 2DShape class
 // 09/21/2025 I have to research about equal (object obj)
 // 09/24/2025 Having issue with equals, compaireTo, and max method and fixed in 3 hours.
 // 10/24/2025 Added exception handling to the class

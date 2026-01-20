@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 09/19/2025 Tekhour Khov Created the Mypoint class
+// 09/19/2025 Created the Mypoint class
 // 09/22/2025 Added exception handling for invalid coordinates
 // 09/24/2025 Recheck the class and error corrections
 

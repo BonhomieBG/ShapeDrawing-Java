@@ -6,7 +6,7 @@
 //
 // Revision History
 // Date: By: Action
-// 10/20/2025 Tekhour Khov Created the InvalidRadiusException class
+// 10/20/2025 Created the InvalidRadiusException class
 
 public class InvalidRadiusException extends Exception {
     private double invalidRadius;
