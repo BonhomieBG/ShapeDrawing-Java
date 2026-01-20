@@ -10,4 +10,7 @@ This Application use JavaFX as the main GUI handler. Provide a simple UI to draw
 - Auto Draw shapes based on attribute provided
 - Save and Load Feature (.Shape file extension)
 
+# REQUIREMENT
+JAVAFX Must be installed and configured for the program to work correctly. If you would like to use a usable version without having to install javafx, consider installing the binary C++ application instead.
+
 Any Feedback regarding the project are welcome. CPP version of this Application available in my Github Repo.
